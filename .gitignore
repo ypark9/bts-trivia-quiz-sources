@@ -1,0 +1,7 @@
+# Generated sourcebooks are committed only through a reviewed sourcebook PR.
+# Never place private recovery material or exported Alexa artifacts in this repository.
+*.zip
+*.ask-export.json
+.env
+*.pem
+*.key
