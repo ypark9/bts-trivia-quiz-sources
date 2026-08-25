@@ -2,6 +2,13 @@
 # Never place private recovery material or exported Alexa artifacts in this repository.
 *.zip
 *.ask-export.json
+ask-exports/
 .env
+.env.*
 *.pem
 *.key
+*.p12
+*.pfx
+node_modules/
+dist/
+.DS_Store
